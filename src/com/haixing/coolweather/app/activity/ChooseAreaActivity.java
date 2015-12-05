@@ -1,4 +1,4 @@
-package com.coolweather.app.activity;
+package com.haixing.coolweather.app.activity;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -19,14 +19,14 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.coolweather.app.R;
-import com.coolweather.app.model.City;
-import com.coolweather.app.model.CoolWeatherDB;
-import com.coolweather.app.model.County;
-import com.coolweather.app.model.Province;
-import com.coolweather.app.util.HttpCallbackListener;
-import com.coolweather.app.util.HttpUtil;
-import com.coolweather.app.util.Utility;
+import com.haixing.coolweather.app.R;
+import com.haixing.coolweather.app.model.City;
+import com.haixing.coolweather.app.model.CoolWeatherDB;
+import com.haixing.coolweather.app.model.County;
+import com.haixing.coolweather.app.model.Province;
+import com.haixing.coolweather.app.util.HttpCallbackListener;
+import com.haixing.coolweather.app.util.HttpUtil;
+import com.haixing.coolweather.app.util.Utility;
 
 public class ChooseAreaActivity extends Activity {
 

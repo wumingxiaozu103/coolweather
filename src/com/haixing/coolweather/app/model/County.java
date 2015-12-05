@@ -1,4 +1,4 @@
-package com.coolweather.app.model;
+package com.haixing.coolweather.app.model;
 
 public class County {
 	private int id;

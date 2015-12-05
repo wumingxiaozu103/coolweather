@@ -1,4 +1,4 @@
-package com.coolweather.app.activity;
+package com.haixing.coolweather.app.activity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -13,11 +13,11 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.coolweather.app.R;
-import com.coolweather.app.service.AutoUpdateService;
-import com.coolweather.app.util.HttpCallbackListener;
-import com.coolweather.app.util.HttpUtil;
-import com.coolweather.app.util.Utility;
+import com.haixing.coolweather.app.R;
+import com.haixing.coolweather.app.service.AutoUpdateService;
+import com.haixing.coolweather.app.util.HttpCallbackListener;
+import com.haixing.coolweather.app.util.HttpUtil;
+import com.haixing.coolweather.app.util.Utility;
 
 public class WeatherActivity extends Activity implements OnClickListener {
 

@@ -1,4 +1,4 @@
-package com.coolweather.app.service;
+package com.haixing.coolweather.app.service;
 
 import android.app.AlarmManager;
 import android.app.PendingIntent;
@@ -9,10 +9,10 @@ import android.os.IBinder;
 import android.os.SystemClock;
 import android.preference.PreferenceManager;
 
-import com.coolweather.app.receiver.AutoUpdateReceiver;
-import com.coolweather.app.util.HttpCallbackListener;
-import com.coolweather.app.util.HttpUtil;
-import com.coolweather.app.util.Utility;
+import com.haixing.coolweather.app.receiver.AutoUpdateReceiver;
+import com.haixing.coolweather.app.util.HttpCallbackListener;
+import com.haixing.coolweather.app.util.HttpUtil;
+import com.haixing.coolweather.app.util.Utility;
 
 public class AutoUpdateService extends Service {
 

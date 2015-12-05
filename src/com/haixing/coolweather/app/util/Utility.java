@@ -1,4 +1,4 @@
-package com.coolweather.app.util;
+package com.haixing.coolweather.app.util;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -12,10 +12,10 @@ import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 import android.text.TextUtils;
 
-import com.coolweather.app.model.City;
-import com.coolweather.app.model.CoolWeatherDB;
-import com.coolweather.app.model.County;
-import com.coolweather.app.model.Province;
+import com.haixing.coolweather.app.model.City;
+import com.haixing.coolweather.app.model.CoolWeatherDB;
+import com.haixing.coolweather.app.model.County;
+import com.haixing.coolweather.app.model.Province;
 
 public class Utility {
 	/**

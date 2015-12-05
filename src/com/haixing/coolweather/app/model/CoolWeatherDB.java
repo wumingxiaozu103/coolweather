@@ -1,4 +1,4 @@
-package com.coolweather.app.model;
+package com.haixing.coolweather.app.model;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,7 +8,7 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
-import com.coolweather.app.db.CoolWeatherOpenHelper;
+import com.haixing.coolweather.app.db.CoolWeatherOpenHelper;
 
 public class CoolWeatherDB {
 	/**

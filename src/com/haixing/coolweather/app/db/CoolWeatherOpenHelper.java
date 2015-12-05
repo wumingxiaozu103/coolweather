@@ -1,4 +1,4 @@
-package com.coolweather.app.db;
+package com.haixing.coolweather.app.db;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
